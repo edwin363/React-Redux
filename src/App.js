@@ -10,8 +10,8 @@ import { Provider } from 'react-redux';
 import store from './redux/store'
 import CantidadPokemonHook from './components/CantidadPokemon.hook';
 import CompraPokemonHook from './components/CompraPokemon.hook';
-import BuscadorPokemon from './buscador/BuscadorPokemon';
-import ResultadoPokemon from './buscador/ResultadoPokemon';
+import BuscadorPokemon from "./components/buscador/BuscadorPokemon";
+import ResultadoPokemon from "./components/buscador/ResultadoPokemon";
 
 function App() {
 
