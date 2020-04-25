@@ -3,8 +3,6 @@ import './App.css';
 import poke from './img/imgPoke3.jpg';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
-// import CantidadPokemon from './components/CantidadPokemon';
-// import CompraPokemon from './components/CompraPokemon';
 
 import { Provider } from 'react-redux';
 import store from './redux/store'
